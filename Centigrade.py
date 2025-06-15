@@ -6,3 +6,4 @@ if fahrenheit < 32:
 else:
     print("It's not freezing.")
 # This is a new feature
+# Button
